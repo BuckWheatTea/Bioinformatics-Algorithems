@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Using Julia and Python to implement some bioinformatics algorithms mentioned by the book Bioinformatics Algorithms -- An Active Learning Approach, 2nd Edition" by Phillip Compeau &amp; Pavel Pevzner.
+Using Julia and Python to implement some bioinformatics algorithms mentioned by the book Bioinformatics Algorithms -- An Active Learning Approach, 2nd Edition" by Phillip Compeau &amp; Pavel Pevzner. You can checked detailed introduction in the Julia or Python files. This project are still in progress.
 
-## Important Methods which has been implemented 
+## Important Methods
 
 ### BioPatternMatch
 
