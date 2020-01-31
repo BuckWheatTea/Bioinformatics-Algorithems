@@ -1,4 +1,4 @@
-# Bioinformatics-Algorithems
+# Bioinformatics-Algorithms
 
 ## Introduction
 
